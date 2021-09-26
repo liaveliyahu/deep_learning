@@ -50,5 +50,8 @@ Actually it better to Buy and Hold the stock than use the agent.
 <p align="left">
   <img src="Assets\lagging.png" width="450">
 </p>
-the main reason it happened is because the lagging in the predictions -
+The main reason it happened is because the lagging in the predictions -
 means the predictions lagging 1 day after the real prices and makes it difficult to predict the real price.
+
+## References
+* Data obtained from: https://finance.yahoo.com/
