@@ -32,13 +32,13 @@ Non-trainable params: 0
 </p>
 The loss funcion converged immediately on the first epoch with th train set, and after only 20 epochs of the validation set.
 
-## Predictions
+### Predictions
 <p align="left">
   <img src="Assets\real_vs_predicted.png" width="450">
 </p>
 We got prefect fit with the train set, and pretty good fit with the test set.
 
-## Test predictions with an agent
+### Test predictions with an agent
 <p align="left">
   <img src="Assets\agent_performance.png" width="450">
 </p>
