@@ -47,6 +47,7 @@ The agent buy or sell the maximum stocks each time.
 The agent got 5,000$ at the begging and finished with ~147,000$.
 Actually it better to Buy and Hold the stock than use the agent.
 
+
 <p align="left">
   <img src="Assets\lagging.png" width="450">
 </p>
