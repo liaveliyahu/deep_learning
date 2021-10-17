@@ -1,2 +1,2 @@
 # deep_learning
-A collection of various project using Deep Learning.
+A collection of various projects using Deep Learning.
